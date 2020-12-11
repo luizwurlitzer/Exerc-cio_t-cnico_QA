@@ -1,1 +1,1 @@
-# Exerc-cio_t-cnico_QA
+# Exercicio_tecnico_QA
