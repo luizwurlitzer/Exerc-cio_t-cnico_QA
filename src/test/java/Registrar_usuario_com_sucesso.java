@@ -18,7 +18,7 @@ public class Registrar_usuario_com_sucesso{
 		
 		return dado;
 	}
-	
+	//
 	@Test(dataProvider = "dadosParaRegistro")
 	void Registro_com_sucesso(String email, String password) {
 
