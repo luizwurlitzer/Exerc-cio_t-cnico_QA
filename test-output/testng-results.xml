@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-11T18:45:36 BRT" name="Default suite" finished-at="2020-12-11T18:45:39 BRT" duration-ms="3732">
+    <groups>
+    </groups>
+    <test started-at="2020-12-11T18:45:36 BRT" name="Default test" finished-at="2020-12-11T18:45:39 BRT" duration-ms="3732">
+      <class name="Registrar_usuario_com_sucesso">
+        <test-method signature="Registro_com_sucesso(java.lang.String, java.lang.String)[pri:0, instance:Registrar_usuario_com_sucesso@51f116b8]" started-at="2020-12-11T18:45:36 BRT" name="Registro_com_sucesso" data-provider="dadosParaRegistro" finished-at="2020-12-11T18:45:39 BRT" duration-ms="3112" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[eve.holt@reqres.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pistol]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registro_com_sucesso -->
+        <test-method signature="Registro_com_sucesso(java.lang.String, java.lang.String)[pri:0, instance:Registrar_usuario_com_sucesso@51f116b8]" started-at="2020-12-11T18:45:39 BRT" name="Registro_com_sucesso" data-provider="dadosParaRegistro" finished-at="2020-12-11T18:45:39 BRT" duration-ms="578" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[eve.holt@reqres.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pistol]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registro_com_sucesso -->
+      </class> <!-- Registrar_usuario_com_sucesso -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
